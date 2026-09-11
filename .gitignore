@@ -1,6 +1,25 @@
-/a_def_pass.h
-/a_def_devc.h
-/debug.cfg
-/debug_custom.cfg
-/*.svd
-/debug_custom.json
+# Скомпилированные файлы
+build/
+*.bin
+*.elf
+*.map
+
+# Архивы
+private.zip
+public.zip
+*.zip
+
+# Временные файлы
+*.bak
+*.pyc
+patch_binary.py
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*~
+
+# OS
+.DS_Store
+Thumbs.db

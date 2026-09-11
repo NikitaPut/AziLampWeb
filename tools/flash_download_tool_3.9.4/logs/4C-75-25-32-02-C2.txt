@@ -1,0 +1,848 @@
+*************************** START ****************************
+START TIME: 202607042136
+CONNECT BAUD: 115200
+set state: ESP_DL_SYNC
+serial port opened
+-----------
+baud:115200
+root baud:115200
+-------------
+===============BAUD : 115200===============CALL DEVICE SYNC
+connecting...
+0x3ff00050: c2cd0000
+0x3ff00054: 02003202
+0x3ff00058: 0d00b000
+0x3ff0005c: 004c7525
+check_err_0: 0bcheck_err_1: 00check_err_2: 00check_err_3: 02check_err_4: 0b====================
+EFUSE NORMAL MODE
+====================
+=========================
+CRC IN MODE 1: 
+crc_calc_res: 13
+target crc val: 13
+=========================
+=========================
+CRC IN MODE 1:
+crc_calc_res: 205
+target crc val: 205
+=========================
+==================
+EFUSE LOG:
+======================
+    EFUSE LOG:
+    ---------------
+    REG0:C2CD0000
+    REG1:02003202
+    REG2:0d00b000
+    REG3:004C7525
+    ----------------
+    ====================
+                                   EFUSE NORMAL MODE
+                                   ====================
+EFUSE CHECK PASS...48bit mac
+-----------------------
+ 4c 75 25 32 02 c2CUSTOM_ID: 00 D0 00 00 00 0C D0 00 
+MAC AP : 4E-75-25-32-02-C2
+MAC STA: 4C-75-25-32-02-C2
+get mac res: 1
+get flash id : 0x001660c4
+manufacturer_id: 0xc4
+device_id: 0x6016
+com closed
+Use time: 1 s
+Download result: PASS
+*************************** END ****************************
+
+*************************** START ****************************
+START TIME: 202607042154
+CONNECT BAUD: 115200
+set state: ESP_DL_SYNC
+serial port opened
+-----------
+baud:115200
+root baud:115200
+-------------
+===============BAUD : 115200===============CALL DEVICE SYNC
+connecting...
+0x3ff00050: c2cd0000
+0x3ff00054: 02003202
+0x3ff00058: 0d00b000
+0x3ff0005c: 004c7525
+check_err_0: 0bcheck_err_1: 00check_err_2: 00check_err_3: 02check_err_4: 0b====================
+EFUSE NORMAL MODE
+====================
+=========================
+CRC IN MODE 1: 
+crc_calc_res: 13
+target crc val: 13
+=========================
+=========================
+CRC IN MODE 1:
+crc_calc_res: 205
+target crc val: 205
+=========================
+==================
+EFUSE LOG:
+======================
+    EFUSE LOG:
+    ---------------
+    REG0:C2CD0000
+    REG1:02003202
+    REG2:0d00b000
+    REG3:004C7525
+    ----------------
+    ====================
+                                   EFUSE NORMAL MODE
+                                   ====================
+EFUSE CHECK PASS...48bit mac
+-----------------------
+ 4c 75 25 32 02 c2CUSTOM_ID: 00 D0 00 00 00 0C D0 00 
+MAC AP : 4E-75-25-32-02-C2
+MAC STA: 4C-75-25-32-02-C2
+get mac res: 1
+get flash id : 0x001660c4
+manufacturer_id: 0xc4
+device_id: 0x6016
+com closed
+Use time: 1 s
+Download result: PASS
+*************************** END ****************************
+
+*************************** START ****************************
+START TIME: 202607042155
+CONNECT BAUD: 115200
+serial port open error
+COM:COM3
+baud:115200
+SERIAL PORT OPEN ERROR
+set state: ESP_DL_CONNECT_ERROR
+*************************** START ****************************
+START TIME: 202607042155
+CONNECT BAUD: 115200
+serial port open error
+COM:COM3
+baud:115200
+SERIAL PORT OPEN ERROR
+set state: ESP_DL_CONNECT_ERROR
+*************************** START ****************************
+START TIME: 202607042155
+CONNECT BAUD: 115200
+serial port open error
+COM:COM3
+baud:115200
+SERIAL PORT OPEN ERROR
+set state: ESP_DL_CONNECT_ERROR
+*************************** START ****************************
+START TIME: 202607042156
+CONNECT BAUD: 115200
+set state: ESP_DL_SYNC
+serial port opened
+-----------
+baud:115200
+root baud:115200
+-------------
+===============BAUD : 115200===============CALL DEVICE SYNC
+connecting...
+0x3ff00050: c2cd0000
+0x3ff00054: 02003202
+0x3ff00058: 0d00b000
+0x3ff0005c: 004c7525
+check_err_0: 0bcheck_err_1: 00check_err_2: 00check_err_3: 02check_err_4: 0b====================
+EFUSE NORMAL MODE
+====================
+=========================
+CRC IN MODE 1: 
+crc_calc_res: 13
+target crc val: 13
+=========================
+=========================
+CRC IN MODE 1:
+crc_calc_res: 205
+target crc val: 205
+=========================
+==================
+EFUSE LOG:
+======================
+    EFUSE LOG:
+    ---------------
+    REG0:C2CD0000
+    REG1:02003202
+    REG2:0d00b000
+    REG3:004C7525
+    ----------------
+    ====================
+                                   EFUSE NORMAL MODE
+                                   ====================
+EFUSE CHECK PASS...48bit mac
+-----------------------
+ 4c 75 25 32 02 c2CUSTOM_ID: 00 D0 00 00 00 0C D0 00 
+MAC AP : 4E-75-25-32-02-C2
+MAC STA: 4C-75-25-32-02-C2
+get mac res: 1
+get flash id : 0x001660c4
+manufacturer_id: 0xc4
+device_id: 0x6016
+com closed
+Use time: 1 s
+Download result: PASS
+*************************** END ****************************
+
+*************************** START ****************************
+START TIME: 202607042158
+CONNECT BAUD: 115200
+serial port open error
+COM:COM3
+baud:115200
+SERIAL PORT OPEN ERROR
+set state: ESP_DL_CONNECT_ERROR
+*************************** START ****************************
+START TIME: 202607042158
+CONNECT BAUD: 115200
+serial port open error
+COM:COM3
+baud:115200
+SERIAL PORT OPEN ERROR
+set state: ESP_DL_CONNECT_ERROR
+*************************** START ****************************
+START TIME: 202607042158
+CONNECT BAUD: 115200
+serial port open error
+COM:COM3
+baud:115200
+SERIAL PORT OPEN ERROR
+set state: ESP_DL_CONNECT_ERROR
+*************************** START ****************************
+START TIME: 202607042158
+CONNECT BAUD: 115200
+serial port open error
+COM:COM3
+baud:115200
+SERIAL PORT OPEN ERROR
+set state: ESP_DL_CONNECT_ERROR
+*************************** START ****************************
+START TIME: 202607042158
+CONNECT BAUD: 115200
+serial port open error
+COM:COM3
+baud:115200
+SERIAL PORT OPEN ERROR
+set state: ESP_DL_CONNECT_ERROR
+*************************** START ****************************
+START TIME: 202607042158
+CONNECT BAUD: 115200
+serial port open error
+COM:COM3
+baud:115200
+SERIAL PORT OPEN ERROR
+set state: ESP_DL_CONNECT_ERROR
+*************************** START ****************************
+START TIME: 202607042159
+CONNECT BAUD: 115200
+serial port open error
+COM:COM3
+baud:115200
+SERIAL PORT OPEN ERROR
+set state: ESP_DL_CONNECT_ERROR
+*************************** START ****************************
+START TIME: 202607042159
+CONNECT BAUD: 115200
+serial port open error
+COM:COM3
+baud:115200
+SERIAL PORT OPEN ERROR
+set state: ESP_DL_CONNECT_ERROR
+*************************** START ****************************
+START TIME: 202607042159
+CONNECT BAUD: 115200
+serial port open error
+COM:COM3
+baud:115200
+SERIAL PORT OPEN ERROR
+set state: ESP_DL_CONNECT_ERROR
+*************************** START ****************************
+START TIME: 202607042159
+CONNECT BAUD: 115200
+serial port open error
+COM:COM3
+baud:115200
+SERIAL PORT OPEN ERROR
+set state: ESP_DL_CONNECT_ERROR
+*************************** START ****************************
+START TIME: 202607042159
+CONNECT BAUD: 115200
+serial port open error
+COM:COM3
+baud:115200
+SERIAL PORT OPEN ERROR
+set state: ESP_DL_CONNECT_ERROR
+*************************** START ****************************
+START TIME: 202607042159
+CONNECT BAUD: 115200
+serial port open error
+COM:COM3
+baud:115200
+SERIAL PORT OPEN ERROR
+set state: ESP_DL_CONNECT_ERROR
+*************************** START ****************************
+START TIME: 202607042201
+CONNECT BAUD: 115200
+set state: ESP_DL_SYNC
+serial port opened
+-----------
+baud:115200
+root baud:115200
+-------------
+===============BAUD : 115200===============CALL DEVICE SYNC
+connecting...
+0x3ff00050: c2cd0000
+0x3ff00054: 02003202
+0x3ff00058: 0d00b000
+0x3ff0005c: 004c7525
+check_err_0: 0bcheck_err_1: 00check_err_2: 00check_err_3: 02check_err_4: 0b====================
+EFUSE NORMAL MODE
+====================
+=========================
+CRC IN MODE 1: 
+crc_calc_res: 13
+target crc val: 13
+=========================
+=========================
+CRC IN MODE 1:
+crc_calc_res: 205
+target crc val: 205
+=========================
+==================
+EFUSE LOG:
+======================
+    EFUSE LOG:
+    ---------------
+    REG0:C2CD0000
+    REG1:02003202
+    REG2:0d00b000
+    REG3:004C7525
+    ----------------
+    ====================
+                                   EFUSE NORMAL MODE
+                                   ====================
+EFUSE CHECK PASS...48bit mac
+-----------------------
+ 4c 75 25 32 02 c2CUSTOM_ID: 00 D0 00 00 00 0C D0 00 
+MAC AP : 4E-75-25-32-02-C2
+MAC STA: 4C-75-25-32-02-C2
+get mac res: 1
+get flash id : 0x001660c4
+manufacturer_id: 0xc4
+device_id: 0x6016
+com closed
+Use time: 1 s
+Download result: PASS
+*************************** END ****************************
+
+*************************** START ****************************
+START TIME: 202607080740
+CONNECT BAUD: 115200
+set state: ESP_DL_SYNC
+serial port opened
+-----------
+baud:115200
+root baud:115200
+-------------
+===============BAUD : 115200===============CALL DEVICE SYNC
+connecting...
+0x3ff00050: c2cd0000
+0x3ff00054: 02003202
+0x3ff00058: 0d00b000
+0x3ff0005c: 004c7525
+check_err_0: 0bcheck_err_1: 00check_err_2: 00check_err_3: 02check_err_4: 0b====================
+EFUSE NORMAL MODE
+====================
+=========================
+CRC IN MODE 1: 
+crc_calc_res: 13
+target crc val: 13
+=========================
+=========================
+CRC IN MODE 1:
+crc_calc_res: 205
+target crc val: 205
+=========================
+==================
+EFUSE LOG:
+======================
+    EFUSE LOG:
+    ---------------
+    REG0:C2CD0000
+    REG1:02003202
+    REG2:0d00b000
+    REG3:004C7525
+    ----------------
+    ====================
+                                   EFUSE NORMAL MODE
+                                   ====================
+EFUSE CHECK PASS...48bit mac
+-----------------------
+ 4c 75 25 32 02 c2CUSTOM_ID: 00 D0 00 00 00 0C D0 00 
+MAC AP : 4E-75-25-32-02-C2
+MAC STA: 4C-75-25-32-02-C2
+get mac res: 1
+get flash id : 0x001660c4
+manufacturer_id: 0xc4
+device_id: 0x6016
+
+Leaving...
+com closed
+Use time: 3 s
+Download result: PASS
+*************************** END ****************************
+
+*************************** START ****************************
+START TIME: 202607080746
+CONNECT BAUD: 115200
+set state: ESP_DL_SYNC
+serial port opened
+-----------
+baud:115200
+root baud:115200
+-------------
+===============BAUD : 115200===============CALL DEVICE SYNC
+connecting...
+0x3ff00050: c2cd0000
+0x3ff00054: 02003202
+0x3ff00058: 0d00b000
+0x3ff0005c: 004c7525
+check_err_0: 0bcheck_err_1: 00check_err_2: 00check_err_3: 02check_err_4: 0b====================
+EFUSE NORMAL MODE
+====================
+=========================
+CRC IN MODE 1: 
+crc_calc_res: 13
+target crc val: 13
+=========================
+=========================
+CRC IN MODE 1:
+crc_calc_res: 205
+target crc val: 205
+=========================
+==================
+EFUSE LOG:
+======================
+    EFUSE LOG:
+    ---------------
+    REG0:C2CD0000
+    REG1:02003202
+    REG2:0d00b000
+    REG3:004C7525
+    ----------------
+    ====================
+                                   EFUSE NORMAL MODE
+                                   ====================
+EFUSE CHECK PASS...48bit mac
+-----------------------
+ 4c 75 25 32 02 c2CUSTOM_ID: 00 D0 00 00 00 0C D0 00 
+MAC AP : 4E-75-25-32-02-C2
+MAC STA: 4C-75-25-32-02-C2
+get mac res: 1
+get flash id : 0x001660c4
+manufacturer_id: 0xc4
+device_id: 0x6016
+com closed
+Use time: 1 s
+Download result: PASS
+*************************** END ****************************
+
+*************************** START ****************************
+START TIME: 202607080747
+CONNECT BAUD: 115200
+set state: ESP_DL_SYNC
+serial port opened
+-----------
+baud:115200
+root baud:115200
+-------------
+===============BAUD : 115200===============CALL DEVICE SYNC
+connecting...
+0x3ff00050: c2cd0000
+0x3ff00054: 02003202
+0x3ff00058: 0d00b000
+0x3ff0005c: 004c7525
+check_err_0: 0bcheck_err_1: 00check_err_2: 00check_err_3: 02check_err_4: 0b====================
+EFUSE NORMAL MODE
+====================
+=========================
+CRC IN MODE 1: 
+crc_calc_res: 13
+target crc val: 13
+=========================
+=========================
+CRC IN MODE 1:
+crc_calc_res: 205
+target crc val: 205
+=========================
+==================
+EFUSE LOG:
+======================
+    EFUSE LOG:
+    ---------------
+    REG0:C2CD0000
+    REG1:02003202
+    REG2:0d00b000
+    REG3:004C7525
+    ----------------
+    ====================
+                                   EFUSE NORMAL MODE
+                                   ====================
+EFUSE CHECK PASS...48bit mac
+-----------------------
+ 4c 75 25 32 02 c2CUSTOM_ID: 00 D0 00 00 00 0C D0 00 
+MAC AP : 4E-75-25-32-02-C2
+MAC STA: 4C-75-25-32-02-C2
+get mac res: 1
+get flash id : 0x001660c4
+manufacturer_id: 0xc4
+device_id: 0x6016
+
+Leaving...
+com closed
+Use time: 3 s
+Download result: PASS
+*************************** END ****************************
+
+*************************** START ****************************
+START TIME: 202607080752
+CONNECT BAUD: 115200
+set state: ESP_DL_SYNC
+serial port opened
+-----------
+baud:115200
+root baud:115200
+-------------
+===============BAUD : 115200===============CALL DEVICE SYNC
+connecting...
+0x3ff00050: c2cd0000
+0x3ff00054: 02003202
+0x3ff00058: 0d00b000
+0x3ff0005c: 004c7525
+check_err_0: 0bcheck_err_1: 00check_err_2: 00check_err_3: 02check_err_4: 0b====================
+EFUSE NORMAL MODE
+====================
+=========================
+CRC IN MODE 1: 
+crc_calc_res: 13
+target crc val: 13
+=========================
+=========================
+CRC IN MODE 1:
+crc_calc_res: 205
+target crc val: 205
+=========================
+==================
+EFUSE LOG:
+======================
+    EFUSE LOG:
+    ---------------
+    REG0:C2CD0000
+    REG1:02003202
+    REG2:0d00b000
+    REG3:004C7525
+    ----------------
+    ====================
+                                   EFUSE NORMAL MODE
+                                   ====================
+EFUSE CHECK PASS...48bit mac
+-----------------------
+ 4c 75 25 32 02 c2CUSTOM_ID: 00 D0 00 00 00 0C D0 00 
+MAC AP : 4E-75-25-32-02-C2
+MAC STA: 4C-75-25-32-02-C2
+get mac res: 1
+get flash id : 0x001660c4
+manufacturer_id: 0xc4
+device_id: 0x6016
+com closed
+Use time: 1 s
+Download result: PASS
+*************************** END ****************************
+
+*************************** START ****************************
+START TIME: 202607080753
+CONNECT BAUD: 115200
+set state: ESP_DL_SYNC
+serial port opened
+-----------
+baud:115200
+root baud:115200
+-------------
+===============BAUD : 115200===============CALL DEVICE SYNC
+connecting...
+0x3ff00050: c2cd0000
+0x3ff00054: 02003202
+0x3ff00058: 0d00b000
+0x3ff0005c: 004c7525
+check_err_0: 0bcheck_err_1: 00check_err_2: 00check_err_3: 02check_err_4: 0b====================
+EFUSE NORMAL MODE
+====================
+=========================
+CRC IN MODE 1: 
+crc_calc_res: 13
+target crc val: 13
+=========================
+=========================
+CRC IN MODE 1:
+crc_calc_res: 205
+target crc val: 205
+=========================
+==================
+EFUSE LOG:
+======================
+    EFUSE LOG:
+    ---------------
+    REG0:C2CD0000
+    REG1:02003202
+    REG2:0d00b000
+    REG3:004C7525
+    ----------------
+    ====================
+                                   EFUSE NORMAL MODE
+                                   ====================
+EFUSE CHECK PASS...48bit mac
+-----------------------
+ 4c 75 25 32 02 c2CUSTOM_ID: 00 D0 00 00 00 0C D0 00 
+MAC AP : 4E-75-25-32-02-C2
+MAC STA: 4C-75-25-32-02-C2
+get mac res: 1
+get flash id : 0x001660c4
+manufacturer_id: 0xc4
+device_id: 0x6016
+Wrote 725120 bytes at 0x00000000 in 41.1 seconds (effective 141.2 kbit/s)...
+Hash of data verified.
+Leaving...
+com closed
+Use time: 43 s
+Download result: PASS
+*************************** END ****************************
+
+*************************** START ****************************
+START TIME: 202607080805
+CONNECT BAUD: 115200
+set state: ESP_DL_SYNC
+serial port opened
+-----------
+baud:115200
+root baud:115200
+-------------
+===============BAUD : 115200===============CALL DEVICE SYNC
+connecting...
+0x3ff00050: c2cd0000
+0x3ff00054: 02003202
+0x3ff00058: 0d00b000
+0x3ff0005c: 004c7525
+check_err_0: 0bcheck_err_1: 00check_err_2: 00check_err_3: 02check_err_4: 0b====================
+EFUSE NORMAL MODE
+====================
+=========================
+CRC IN MODE 1: 
+crc_calc_res: 13
+target crc val: 13
+=========================
+=========================
+CRC IN MODE 1:
+crc_calc_res: 205
+target crc val: 205
+=========================
+==================
+EFUSE LOG:
+======================
+    EFUSE LOG:
+    ---------------
+    REG0:C2CD0000
+    REG1:02003202
+    REG2:0d00b000
+    REG3:004C7525
+    ----------------
+    ====================
+                                   EFUSE NORMAL MODE
+                                   ====================
+EFUSE CHECK PASS...48bit mac
+-----------------------
+ 4c 75 25 32 02 c2CUSTOM_ID: 00 D0 00 00 00 0C D0 00 
+MAC AP : 4E-75-25-32-02-C2
+MAC STA: 4C-75-25-32-02-C2
+get mac res: 1
+get flash id : 0x001660c4
+manufacturer_id: 0xc4
+device_id: 0x6016
+com closed
+Use time: 1 s
+Download result: PASS
+*************************** END ****************************
+
+*************************** START ****************************
+START TIME: 202607080805
+CONNECT BAUD: 115200
+set state: ESP_DL_SYNC
+serial port opened
+-----------
+baud:115200
+root baud:115200
+-------------
+===============BAUD : 115200===============CALL DEVICE SYNC
+connecting...
+0x3ff00050: c2cd0000
+0x3ff00054: 02003202
+0x3ff00058: 0d00b000
+0x3ff0005c: 004c7525
+check_err_0: 0bcheck_err_1: 00check_err_2: 00check_err_3: 02check_err_4: 0b====================
+EFUSE NORMAL MODE
+====================
+=========================
+CRC IN MODE 1: 
+crc_calc_res: 13
+target crc val: 13
+=========================
+=========================
+CRC IN MODE 1:
+crc_calc_res: 205
+target crc val: 205
+=========================
+==================
+EFUSE LOG:
+======================
+    EFUSE LOG:
+    ---------------
+    REG0:C2CD0000
+    REG1:02003202
+    REG2:0d00b000
+    REG3:004C7525
+    ----------------
+    ====================
+                                   EFUSE NORMAL MODE
+                                   ====================
+EFUSE CHECK PASS...48bit mac
+-----------------------
+ 4c 75 25 32 02 c2CUSTOM_ID: 00 D0 00 00 00 0C D0 00 
+MAC AP : 4E-75-25-32-02-C2
+MAC STA: 4C-75-25-32-02-C2
+get mac res: 1
+get flash id : 0x001660c4
+manufacturer_id: 0xc4
+device_id: 0x6016
+Wrote 725120 bytes at 0x00000000 in 41.1 seconds (effective 141.3 kbit/s)...
+Hash of data verified.
+Leaving...
+com closed
+Use time: 43 s
+Download result: PASS
+*************************** END ****************************
+
+*************************** START ****************************
+START TIME: 202607080853
+CONNECT BAUD: 115200
+set state: ESP_DL_SYNC
+serial port opened
+-----------
+baud:115200
+root baud:115200
+-------------
+===============BAUD : 115200===============CALL DEVICE SYNC
+connecting...
+0x3ff00050: c2cd0000
+0x3ff00054: 02003202
+0x3ff00058: 0d00b000
+0x3ff0005c: 004c7525
+check_err_0: 0bcheck_err_1: 00check_err_2: 00check_err_3: 02check_err_4: 0b====================
+EFUSE NORMAL MODE
+====================
+=========================
+CRC IN MODE 1: 
+crc_calc_res: 13
+target crc val: 13
+=========================
+=========================
+CRC IN MODE 1:
+crc_calc_res: 205
+target crc val: 205
+=========================
+==================
+EFUSE LOG:
+======================
+    EFUSE LOG:
+    ---------------
+    REG0:C2CD0000
+    REG1:02003202
+    REG2:0d00b000
+    REG3:004C7525
+    ----------------
+    ====================
+                                   EFUSE NORMAL MODE
+                                   ====================
+EFUSE CHECK PASS...48bit mac
+-----------------------
+ 4c 75 25 32 02 c2CUSTOM_ID: 00 D0 00 00 00 0C D0 00 
+MAC AP : 4E-75-25-32-02-C2
+MAC STA: 4C-75-25-32-02-C2
+get mac res: 1
+get flash id : 0x001660c4
+manufacturer_id: 0xc4
+device_id: 0x6016
+com closed
+Use time: 1 s
+Download result: PASS
+*************************** END ****************************
+
+*************************** START ****************************
+START TIME: 202607080853
+CONNECT BAUD: 115200
+set state: ESP_DL_SYNC
+serial port opened
+-----------
+baud:115200
+root baud:115200
+-------------
+===============BAUD : 115200===============CALL DEVICE SYNC
+connecting...
+0x3ff00050: c2cd0000
+0x3ff00054: 02003202
+0x3ff00058: 0d00b000
+0x3ff0005c: 004c7525
+check_err_0: 0bcheck_err_1: 00check_err_2: 00check_err_3: 02check_err_4: 0b====================
+EFUSE NORMAL MODE
+====================
+=========================
+CRC IN MODE 1: 
+crc_calc_res: 13
+target crc val: 13
+=========================
+=========================
+CRC IN MODE 1:
+crc_calc_res: 205
+target crc val: 205
+=========================
+==================
+EFUSE LOG:
+======================
+    EFUSE LOG:
+    ---------------
+    REG0:C2CD0000
+    REG1:02003202
+    REG2:0d00b000
+    REG3:004C7525
+    ----------------
+    ====================
+                                   EFUSE NORMAL MODE
+                                   ====================
+EFUSE CHECK PASS...48bit mac
+-----------------------
+ 4c 75 25 32 02 c2CUSTOM_ID: 00 D0 00 00 00 0C D0 00 
+MAC AP : 4E-75-25-32-02-C2
+MAC STA: 4C-75-25-32-02-C2
+get mac res: 1
+get flash id : 0x001660c4
+manufacturer_id: 0xc4
+device_id: 0x6016
+Wrote 725120 bytes at 0x00000000 in 41.0 seconds (effective 141.3 kbit/s)...
+Hash of data verified.
+Leaving...
+com closed
+Use time: 43 s
+Download result: PASS
+*************************** END ****************************
+
